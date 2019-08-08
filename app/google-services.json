@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "133763271928",
+    "firebase_url": "https://foodmunch-f0656.firebaseio.com",
+    "project_id": "foodmunch-f0656",
+    "storage_bucket": "foodmunch-f0656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133763271928:android:713bc07415c6c409",
+        "android_client_info": {
+          "package_name": "com.example.foodmunch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133763271928-ji6cjsvrd2mpnlh5g2k6hr9qhsj0vuf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodmunch",
+            "certificate_hash": "c88291c1a048f58669b16efb542a89d7dcb264d1"
+          }
+        },
+        {
+          "client_id": "133763271928-ae733rshvts3e0js73n09co3ji2i05vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh-l4DcRngcB9XC9glJYLph9rEObIoE6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133763271928-ae733rshvts3e0js73n09co3ji2i05vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
